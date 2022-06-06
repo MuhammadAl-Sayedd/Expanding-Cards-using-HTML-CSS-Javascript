@@ -20,3 +20,5 @@ To get the project up and running follow the steps below:
 1. Creating the page as reposnive to the small-size screens .
 2. Preview any picture by clicking on it.
 3. By clicking on any image, it gets larger in the preview with collapsing any other image.
+
+![This is an image](/assets/ezgif.com-gif-maker.gif)
